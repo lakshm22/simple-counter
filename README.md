@@ -20,8 +20,8 @@ A mini project to learn the usage of CSS ID selectors, JS constants, functions a
   
   ├── simple-counter/
    ├── project/
-   ├── scripts.js          # JS file to add functionality to the interface
-   ├── styles.css          # CSS file to add styling to the webpage
-   └── counter.html        # Main file containing the interface structure
+    ├── scripts.js          # JS file to add functionality to the interface
+    ├── styles.css          # CSS file to add styling to the webpage
+    └── counter.html        # Main file containing the interface structure
   
 </pre>
