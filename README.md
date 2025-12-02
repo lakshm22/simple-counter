@@ -1,1 +1,27 @@
-# simple-counter
+# Simple Counter
+A simple counter UI built using HTML, CSS and JavaScript.
+
+---
+
+### Purpose?
+A mini project to learn the usage of CSS ID selectors, JS constants, functions and variable declaration.
+
+----
+
+### Tech Stack ⚒️
+- `HTML5`
+- `CSS`
+- `Javascript`
+
+---
+
+### Project Structure
+<pre>
+  
+  ├── simple-counter/
+   ├── project/
+   ├── scripts.js          # JS file to add the functionality to the interface
+   ├── styles.css          # CSS file to add styling to the webpage
+   └── counter.html        # Main file containing the interface structure
+  
+</pre>
