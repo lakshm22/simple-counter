@@ -11,7 +11,7 @@ A mini project to learn the usage of CSS ID selectors, JS constants, functions a
 ### Tech Stack ⚒️
 - `HTML5`
 - `CSS`
-- `Javascript`
+- `JavaScript`
 
 ---
 
@@ -20,7 +20,7 @@ A mini project to learn the usage of CSS ID selectors, JS constants, functions a
   
   ├── simple-counter/
    ├── project/
-   ├── scripts.js          # JS file to add the functionality to the interface
+   ├── scripts.js          # JS file to add functionality to the interface
    ├── styles.css          # CSS file to add styling to the webpage
    └── counter.html        # Main file containing the interface structure
   
