@@ -1,10 +1,19 @@
 # Simple Counter
 A simple counter UI built using HTML, CSS and JavaScript.
 
----
+----
 
 ### Purpose?
 A mini project to learn the usage of CSS ID selectors, JS constants, functions and variable declaration.
+
+----
+
+## Features
+
+- Increment the counter
+- Decrement the counter
+- Reset the counter
+- Displays the current value
 
 ----
 
@@ -13,7 +22,7 @@ A mini project to learn the usage of CSS ID selectors, JS constants, functions a
 - `CSS`
 - `JavaScript`
 
----
+----
 
 ### Project Structure
 <pre>
