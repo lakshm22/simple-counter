@@ -9,7 +9,6 @@ A mini project to learn the usage of CSS ID selectors, JS constants, functions a
 ----
 
 ## Features
-
 - Increment the counter
 - Decrement the counter
 - Reset the counter
